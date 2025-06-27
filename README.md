@@ -1,4 +1,4 @@
-# How-to-add-a-row-with-auto-scrolling-behavior-in-.NET-MAUI-DataGrid-SfDataGrid
+# How to add a row with auto scrolling behavior in .NET MAUI DataGrid SfDataGrid
 This demo shows how to add a row with auto scrolling behavior in the Syncfusion [.NET MAUI DataGrid](https://help.syncfusion.com/maui/datagrid/overview) `SfDataGrid`.
 
 This sample helps you to to auto scroll the DataGrid to the last item added in the collection. In this sample, after adding the new data to the grid, the scrolling was performed automatically.
@@ -56,9 +56,10 @@ public partial class MainPage : ContentPage
 
 Executing the code example above yields the following output
 
-<img src="" width=800/>
+<img src="https://github.com/user-attachments/assets/14be5823-e5c8-44af-8c9d-0ba973de9856" />
 
- Take a moment to explore this [documentation](https://help.syncfusion.com/maui/datagrid/overview), where you can find more information about Syncfusion .NET MAUI DataGrid (SfDataGrid) with code examples. Please refer to this [link](https://www.syncfusion.com/maui-controls/maui-datagrid) to learn about the essential features of Syncfusion .NET MAUI DataGrid (SfDataGrid).
+
+Take a moment to explore this [documentation](https://help.syncfusion.com/maui/datagrid/overview), where you can find more information about Syncfusion .NET MAUI DataGrid (SfDataGrid) with code examples. Please refer to this [link](https://www.syncfusion.com/maui-controls/maui-datagrid) to learn about the essential features of Syncfusion .NET MAUI DataGrid (SfDataGrid).
 
 ### Conclusion
 I hope you enjoyed learning about how to add a row with auto scroll in SfDataGrid.
